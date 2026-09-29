@@ -1,0 +1,6 @@
+{
+  "name": "Kalshi 15-Minute Market Predictor & Cycle Neural Engine",
+  "description": "Live 15-minute Kalshi market predictor with Hurst cycle continuum, Peter Eliades offsets, Delta ROC, neural training backtester, and combo contract generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
